@@ -1,0 +1,28 @@
+'use strict';
+
+[
+    {
+    "title" : "BusMall",
+    "description" : "Simulated Magazine Type Thing",
+    "author" : "Morgan LaCouture",
+    "dateFin" : ""
+    },
+    {
+    "title" : "Salmon Cookies",
+    "description" : "Simulated Cookie Store",
+    "author" : "Morgan LaCouture",
+    "dateFin" : ""
+    },
+    {
+    "title" : "About Me",
+    "description" : "",
+    "author" : "Morgan LaCouture",
+    "dateFin" : ""
+    },
+    {
+    "title" : "Beer Buddy",
+    "description" : "Helping the Average Joes of the World Refine their Beer Tastes",
+    "author" : "David, Eli, Frank, and Morgan LaCouture",
+    "dateFin" : ""
+    }
+] 
