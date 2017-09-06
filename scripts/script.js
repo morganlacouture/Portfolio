@@ -1,3 +1,5 @@
+"use strict";
+
 function myProject (title, description, author, dateFin){
     this.title = title; //name of the project//
     this.description = description; //tiny description?? not crazy about this one//
